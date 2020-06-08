@@ -112,4 +112,19 @@ div.project h3 {
 	border-radius: 5px;
 	box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
 	text-align: center;
+}
+.p_1 p {
+   margin: 0;
+}
+.contactus p {
+   margin: 0;
+}
+#mail {
+	text-decoration: underline;
+	font: blue;
+	cursor: copy;
+}
+footer {
+	background-color: black;
+	margin: 0;
 }	
